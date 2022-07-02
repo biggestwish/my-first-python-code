@@ -1,2 +1,3 @@
-Leader: Idham
-Staff: .
+Leader: Idham Wihar
+Staff: Oke
+Done.
